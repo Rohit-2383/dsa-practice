@@ -4,7 +4,7 @@
 // Topic: Arrays
 
 //my approach
-function containsDuplicate(nums:number[]){
+function containsDuplicate(nums:number[]):boolean{
     const setStore = new Set()
 
     for(const num of nums){
@@ -15,3 +15,6 @@ function containsDuplicate(nums:number[]){
     }
     return false
 }
+
+//time complexity - O(n)
+//space complexity - O(n)
