@@ -15,7 +15,7 @@ This repository contains my **daily practice/revision of Data Structures & Algor
 ## 🚀 Goals
 
 - Solve **1–3 problems every day**
-- Revise and Brush my DSA knowledge
+- Refining my understanding of data structures and algorithms through consistent, hands-on coding practice
 - Cover all major topics 
 - Focus on both **coding** and **understanding**
 

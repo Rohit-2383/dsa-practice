@@ -19,7 +19,7 @@ function isAnagram(s:string,t:string):boolean{
 // __________________________________________________________________________________________________________________________
 
 
-// optimal solution
+// optimal solution - from platform
 function isAnagramOptimal(s: string, t: string): boolean {
     if (s.length !== t.length) return false;
 
