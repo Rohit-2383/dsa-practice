@@ -14,14 +14,14 @@ This repository contains my **daily practice/revision of Data Structures & Algor
 
 ## 🚀 Goals
 
-- Solve **1–3 problems every day**
+- Solve **1–3 problems, take notes or implement the algorithm in code  daily to reinforce understanding**
 - Refining my understanding of data structures and algorithms through consistent, hands-on coding practice
 - Cover all major topics 
 - Focus on both **coding** and **understanding**
 
 ---
 
-## ✅ Topics Covered
+<!-- ## ✅ Topics Covered
 
 - [ ] Arrays
 - [ ] Strings
@@ -31,7 +31,7 @@ This repository contains my **daily practice/revision of Data Structures & Algor
 - [ ] Binary Search
 - [ ] Dynamic Programming
 - [ ] Graphs
-- [ ] Recursion & Backtracking
+- [ ] Recursion & Backtracking -->
 
 ---
 
