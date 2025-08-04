@@ -50,8 +50,8 @@ Track all my daily progress in [`progress.md`](./progress.md)
 
 ## 🛠️ How I Work
 
-1. Solve problem on platform (NeetCode,LeetCode,etc.)
-2. Save the solution under correct folder
+1. Solve problem on platform (NeetCode,LeetCode,etc.) , take notes or implement algorithm
+2. Save the solution  for the same under correct folder
 3. Commit
 4. Push daily or weekly
 
