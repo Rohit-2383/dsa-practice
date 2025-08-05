@@ -13,3 +13,4 @@
 | 02-08-2025 | NeetCode   | Longest Consecutive Sequence        | Arrays    | ✅ Done |
 | 03-08-2025 | -          | -                                   | -         | -        |
 | 04-08-2025 | Leetcode   | Roman to Integer                    | Strings   | ✅ Done |
+| 05-08-2025 | Leetcode   | Longest Common Prefix               | Strings   | ✅ Done |
