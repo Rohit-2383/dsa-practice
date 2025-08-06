@@ -14,3 +14,5 @@
 | 03-08-2025 | -          | -                                   | -         | -        |
 | 04-08-2025 | Leetcode   | Roman to Integer                    | Strings   | ✅ Done |
 | 05-08-2025 | Leetcode   | Longest Common Prefix               | Strings   | ✅ Done |
+| 06-08-2025 | Leetcode   | length of last word                 | Strings   | ✅ Done |
+| 06-08-2025 | Leetcode   | first occurrence in string          | Strings   | ✅ Done |
