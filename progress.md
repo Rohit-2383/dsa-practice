@@ -19,3 +19,4 @@
 | 07-08-2025 | Leetcode   | valid Palindrome                    | Strings   | ✅ Done |
 | 08-08-2025 | Leetcode   | valid Parenthesis                   | Strings   | ✅ Done |
 | 09-08-2025 | Leetcode   | reverse string                      | Strings   | ✅ Done |
+| 10-08-2025 | Leetcode   | isomorphic strings                  | Strings   | ✅ Done |
